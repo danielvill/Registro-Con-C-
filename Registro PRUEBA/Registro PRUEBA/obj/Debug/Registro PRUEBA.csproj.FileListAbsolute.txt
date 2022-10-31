@@ -1,0 +1,16 @@
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\bin\Debug\Registro PRUEBA.exe.config
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\bin\Debug\Registro PRUEBA.exe
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\bin\Debug\Registro PRUEBA.pdb
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\bin\Debug\EntityFramework.dll
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\bin\Debug\EntityFramework.xml
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro PRUEBA.csproj.AssemblyReference.cache
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro PRUEBA.csproj.SuggestedBindingRedirects.cache
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro_PRUEBA.Form1.resources
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro_PRUEBA.Properties.Resources.resources
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro PRUEBA.csproj.GenerateResource.cache
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro PRUEBA.csproj.CopyComplete
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro PRUEBA.exe
+C:\Users\danni\source\repos\Registro PRUEBA\Registro PRUEBA\obj\Debug\Registro PRUEBA.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RegistrobienesModelStoreContainer" CdmEntityContainer="RegistrobienesEntities2">
+    <EntitySetMapping Name="Registro">
+      <EntityTypeMapping TypeName="RegistrobienesModel.Registro">
+        <MappingFragment StoreEntitySet="Registro">
+          <ScalarProperty Name="id_reg" ColumnName="id_reg" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
